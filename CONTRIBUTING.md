@@ -13,6 +13,7 @@
 - [Dennis Rumanek](https://github.com/FrontEndHighRoller)
 - [Bibek Gautam](https://github.com/BG-bibek)
 - [Kachi Kanu](https://github.com/0xKanu)
+- [Karen Robertson](https://github.com/indigorose)
 
 # How to Contribute
 
